@@ -39,16 +39,13 @@ Key points:
 
 ## TABULATION
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
+![WhatsApp Image 2026-03-14 at 1 22 43 PM](https://github.com/user-attachments/assets/3dcdda80-3b1e-4ead-be6e-92520b139638)
+
 
 ---
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
+![WhatsApp Image 2026-03-14 at 1 26 24 PM](https://github.com/user-attachments/assets/03688775-d15e-476b-8c54-83061be9dab5)
 
 ---
 
